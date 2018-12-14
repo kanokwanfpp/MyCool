@@ -30,7 +30,7 @@ width:100%;font-size:20px;background-color:pink;color:white;text-align:center;he
 ul.topnav{list-style-type: none;margin:0px;padding:0px;overflow:hidden;background-image:url(rspbar.png)}
 ul.topnav li{float:left}
 ul.topnav li a {display:inline-block;margin:0px;color:yellow;text-align:center;padding:5px 5px;text-decoration:none;font-size:10px;height:20px}
-ul.topnav li a:hover {color:yellow;}
+ul.topnav li a:hover {color:gray;}
 ul.topnav li.icon {display:none}
 @media screen and (max-width:414px){ 
 ul.topnav li:not(:first-child) {display: none} 
